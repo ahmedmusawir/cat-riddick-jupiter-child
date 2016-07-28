@@ -1,0 +1,38 @@
+// $brand-primary:  #5FC5BF;
+// // $brand-primary:  #FFFC13;
+// // $brand-primary: #FF6600;
+// // $brand-primary: #FF8300;
+// // $brand-primary: lighten( #be8706, 10% );
+// $tiana-primary: #383D66;
+// $tiana-teal: #5FC5BF;
+// $tiana-gray: #242424;
+// $tiana-light-gray: #f9fbfc;
+// $tiana-red: #bb324a;
+$leisa-green: #018442;
+$roy-green: #4cd697;
+
+@import "bourbon/bourbon";
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,300,200,100);
+
+html { 
+ 
+	// display: none;
+
+}
+
+body {
+
+	// font-family: 'Muli', sans-serif;
+	font-family: 'Raleway', sans-serif !important;
+
+	h1,h2,h3,h4,h5,h6,p {
+		font-family: 'Raleway', sans-serif !important;
+
+	}
+	a {
+		text-decoration: none !important;
+	}
+	// display: none;
+}
